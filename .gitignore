@@ -1,0 +1,17 @@
+# idea
+*.iml
+.idea
+
+# vscode
+.vscode
+
+# virtualenv
+Include
+Lib
+Scripts
+tcl
+pip-selfcheck.json
+
+# project
+.data
+.assets
